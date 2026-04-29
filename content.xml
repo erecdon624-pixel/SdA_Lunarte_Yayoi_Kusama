@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260429163545HC79UU</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026042916354594O90F</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Lun-Arte de Yayoi Kusama</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Mujeres Artistas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Elena Recio Doña</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SdA Mujeres artistas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777473325403</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mok5q3ih-n91swhm5b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Caso abierto: ¡Mujeres artistas!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caso abierto: ¡Mujeres artistas!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caso abierto: ¡Mujeres artistas!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Caso abierto: ¡Mujeres artistas!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ih-n91swhm5b</odePageId>
+      <odeBlockId>block-1777314638826-yjccw04jo</odeBlockId>
+      <blockName>Caso abierto: ¡Mujeres artistas!</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ih-n91swhm5b</odePageId>
+          <odeBlockId>block-1777314638826-yjccw04jo</odeBlockId>
+          <odeIdeviceId>idevice-1777314638823-8ao4qeqn8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Querido alumnado de 1º de Primaria:</p>
+<p>Ha pasado algo muy extraño en la biblioteca de nuestro pueblo… ¡y necesitamos vuestra ayuda!</p>
+<p>Con motivo del Día de la Mujer, la biblioteca tenía guardados unos cuentos, dibujos y carteles muy importantes sobre varias mujeres artistas: pintoras, escultoras, escritoras, bailarinas, arquitectas y diseñadoras de moda. Pero, de repente… ¡han desaparecido! Nadie sabe quién se los ha llevado ni dónde están.</p>
+<p>La gente de la biblioteca y del ayuntamiento está muy preocupada, y la policía ya está investigando. Pero hay muchas pistas que todavía no pueden resolver.</p>
+<p>Por eso, han pensado en pedir ayuda a un grupo muy especial: vosotros, los niños y niñas de 1º de Primaria. Saben que sois inteligentes, curiosos y que os encanta investigar. ¿Os interesa?</p>
+<p>Podéis ayudar de muchas maneras:</p>
+<p>Buscando pistas para descubrir qué ha pasado.<br />Investigando en clase y en casa quiénes eran estas artistas.<br />Creando nuevos carteles, dibujos o pequeños textos para que la biblioteca pueda volver a tener información sobre ellas.<br />¿Os gustaría colaborar en esta misión tan importante para que todos podamos conocer mejor a estas mujeres artistas y su trabajo?</p>
+<p>La biblioteca confía mucho en vosotros.</p>
+<p>¡Gracias!</p>
+<p><img src="{{context_path}}/content/resources/yayoi_kusama_1728515637_72927895a27802d3fe3b.jpeg" width="700" height="716" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777314638823-8ao4qeqn8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Querido alumnado de 1º de Primaria:</p>\n<p>Ha pasado algo muy extraño en la biblioteca de nuestro pueblo… ¡y necesitamos vuestra ayuda!</p>\n<p>Con motivo del Día de la Mujer, la biblioteca tenía guardados unos cuentos, dibujos y carteles muy importantes sobre varias mujeres artistas: pintoras, escultoras, escritoras, bailarinas, arquitectas y diseñadoras de moda. Pero, de repente… ¡han desaparecido! Nadie sabe quién se los ha llevado ni dónde están.</p>\n<p>La gente de la biblioteca y del ayuntamiento está muy preocupada, y la policía ya está investigando. Pero hay muchas pistas que todavía no pueden resolver.</p>\n<p>Por eso, han pensado en pedir ayuda a un grupo muy especial: vosotros, los niños y niñas de 1º de Primaria. Saben que sois inteligentes, curiosos y que os encanta investigar. ¿Os interesa?</p>\n<p>Podéis ayudar de muchas maneras:</p>\n<p>Buscando pistas para descubrir qué ha pasado.<br />Investigando en clase y en casa quiénes eran estas artistas.<br />Creando nuevos carteles, dibujos o pequeños textos para que la biblioteca pueda volver a tener información sobre ellas.<br />¿Os gustaría colaborar en esta misión tan importante para que todos podamos conocer mejor a estas mujeres artistas y su trabajo?</p>\n<p>La biblioteca confía mucho en vosotros.</p>\n<p>¡Gracias!</p>\n<p><img src=\"{{context_path}}/content/resources/yayoi_kusama_1728515637_72927895a27802d3fe3b.jpeg\" width=\"700\" height=\"716\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok5q3ii-1daaaheeo</odePageId>
+  <odeParentPageId>page-mok5q3ih-n91swhm5b</odeParentPageId>
+  <pageName>Lun-Arte de Yayoi Kusama</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lun-Arte de Yayoi Kusama</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lun-Arte de Yayoi Kusama</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ii-1daaaheeo</odePageId>
+      <odeBlockId>block-1777316629653-iw9l54xlq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ii-1daaaheeo</odePageId>
+          <odeBlockId>block-1777316629653-iw9l54xlq</odeBlockId>
+          <odeIdeviceId>idevice-1777316629650-bi1gjtqp1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La primera de las artistas de la que hemos podido recuperar información es Yayoi Kusama, una artista originaria de Japón, la cual ha dedicado su vida a múltiples disciplinas, y cuyas obras de arte se han caracterizado siempre por tener muchísimos lunares.</p>
+<p>Por ello, durante las siguientes semanas, estaremos investigando sobre esta artista todo lo que podamos, con el objetivo de aportar a la biblioteca del pueblo nueva información con la que sustituir toda la que fue sustraida.</p>
+<p>A continuación se recoge toda la información acerca de la investigación que llevaremos a cabo, la cual puede ser consultada y/o utilizada por las familias del alumnado:</p>
+<p>Características de la Situación de Aprendizaje (SdA).<br title="" />Línea temporal.<br />Guía didáctica.<br />Instrumentos de evaluación.<br />Contenidos para consultar y trabajar.<br />Por último, y para que podáis iniciaros en la investigación sobre esta artista, se incluye un vídeo informativo sobre su vida:<br /><a href="lun-arte-de-yayoi-kusama.html"><iframe width="560" height="314" src="https://www.youtube.com/embed/dyxC14lseuk" allowfullscreen="allowfullscreen"></iframe>4lseuk</a><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777316629650-bi1gjtqp1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La primera de las artistas de la que hemos podido recuperar información es Yayoi Kusama, una artista originaria de Japón, la cual ha dedicado su vida a múltiples disciplinas, y cuyas obras de arte se han caracterizado siempre por tener muchísimos lunares.</p>\n<p>Por ello, durante las siguientes semanas, estaremos investigando sobre esta artista todo lo que podamos, con el objetivo de aportar a la biblioteca del pueblo nueva información con la que sustituir toda la que fue sustraida.</p>\n<p>A continuación se recoge toda la información acerca de la investigación que llevaremos a cabo, la cual puede ser consultada y/o utilizada por las familias del alumnado:</p>\n<p>Características de la Situación de Aprendizaje (SdA).<br title=\"\" />Línea temporal.<br />Guía didáctica.<br />Instrumentos de evaluación.<br />Contenidos para consultar y trabajar.<br />Por último, y para que podáis iniciaros en la investigación sobre esta artista, se incluye un vídeo informativo sobre su vida:<br /><a href=\"exe-node:page-mok5q3ii-1daaaheeo\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/dyxC14lseuk\" allowfullscreen=\"allowfullscreen\"></iframe>4lseuk</a><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok5q3ij-ixq4o2e0n</odePageId>
+  <odeParentPageId>page-mok5q3ii-1daaaheeo</odeParentPageId>
+  <pageName>Características de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Características de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Características de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ij-ixq4o2e0n</odePageId>
+      <odeBlockId>block-1777315015739-sq4yryn37</odeBlockId>
+      <blockName>Características de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ij-ixq4o2e0n</odePageId>
+          <odeBlockId>block-1777315015739-sq4yryn37</odeBlockId>
+          <odeIdeviceId>idevice-1777315015735-bbk2q432e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se incluye el enlace al documento que recoge todas las características de la SdA que se estará trabajando en las siguientes semanas: </p>
+<p><a href="https://docs.google.com/document/d/103G9bMYf5gVqUPmG0guCUpTrbT2MTCA4sZFb5Tn3jg0/edit?usp=sharing">https://docs.google.com/document/d/103G9bMYf5gVqUPmG0guCUpTrbT2MTCA4sZFb5Tn3jg0/edit?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777315015735-bbk2q432e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se incluye el enlace al documento que recoge todas las características de la SdA que se estará trabajando en las siguientes semanas: </p>\n<p><a href=\"https://docs.google.com/document/d/103G9bMYf5gVqUPmG0guCUpTrbT2MTCA4sZFb5Tn3jg0/edit?usp=sharing\">https://docs.google.com/document/d/103G9bMYf5gVqUPmG0guCUpTrbT2MTCA4sZFb5Tn3jg0/edit?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok5q3ij-91h5t38f3</odePageId>
+  <odeParentPageId>page-mok5q3ii-1daaaheeo</odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ij-91h5t38f3</odePageId>
+      <odeBlockId>block-1777316402484-j0pcu33oa</odeBlockId>
+      <blockName>Protección de datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ij-91h5t38f3</odePageId>
+          <odeBlockId>block-1777316402484-j0pcu33oa</odeBlockId>
+          <odeIdeviceId>idevice-1777316402483-cf1bjr17g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Qué son tus datos personales?<br />Tus datos son todo lo que te hace único:</p>
+<p>Tu nombre completo.<br />La dirección de tu casa o de tu colegio.<br />Tus fotos y vídeos.<br />Tus contraseñas.</p>
+<p><br />¿Por qué debemos protegerlos?<br />Imaginad que vuestros datos son un tesoro. Si se los dais a cualquiera, podrían usarlos para hacerse pasar por vosotros, para saber dónde estáis o para mostraros cosas que no son apropiadas. Proteger vuestros datos es la mejor forma de navegar por internet de forma segura y divertida.</p>
+<p>¿Cómo puedes protegerlos?</p>
+<p><a href="https://view.genially.com/69dd07d6a558450a7d5fec32">https://view.genially.com/69dd07d6a558450a7d5fec32</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777316402483-cf1bjr17g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Qué son tus datos personales?<br />Tus datos son todo lo que te hace único:</p>\n<p>Tu nombre completo.<br />La dirección de tu casa o de tu colegio.<br />Tus fotos y vídeos.<br />Tus contraseñas.</p>\n<p><br />¿Por qué debemos protegerlos?<br />Imaginad que vuestros datos son un tesoro. Si se los dais a cualquiera, podrían usarlos para hacerse pasar por vosotros, para saber dónde estáis o para mostraros cosas que no son apropiadas. Proteger vuestros datos es la mejor forma de navegar por internet de forma segura y divertida.</p>\n<p>¿Cómo puedes protegerlos?</p>\n<p><a href=\"https://view.genially.com/69dd07d6a558450a7d5fec32\">https://view.genially.com/69dd07d6a558450a7d5fec32</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok5q3ij-hvhxd52kr</odePageId>
+  <odeParentPageId>page-mok5q3ii-1daaaheeo</odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ij-hvhxd52kr</odePageId>
+      <odeBlockId>block-1777315950732-7ahhshyi2</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ij-hvhxd52kr</odePageId>
+          <odeBlockId>block-1777315950732-7ahhshyi2</odeBlockId>
+          <odeIdeviceId>idevice-1777315950728-vzhut2p1w</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777315950728-vzhut2p1w" title="" href="{{context_path}}/content/resources/7.1. Línea temporal para la organización.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/7.1. Línea temporal para la organización.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777315950728-vzhut2p1w","img_0":{"img":"{{context_path}}/content/resources/7.1. Línea temporal para la organización.png","thumbnail":"{{context_path}}/content/resources/7.1. Línea temporal para la organización.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok5q3ik-06q3vsm5w</odePageId>
+  <odeParentPageId>page-mok5q3ii-1daaaheeo</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ik-06q3vsm5w</odePageId>
+      <odeBlockId>block-1777316033182-krans79a0</odeBlockId>
+      <blockName>Guia didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ik-06q3vsm5w</odePageId>
+          <odeBlockId>block-1777316033182-krans79a0</odeBlockId>
+          <odeIdeviceId>idevice-1777316033177-8af7dz9ye</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado queda incluido el enlace al documento que relaciona las distintas tareas con los criterios de evaluación escogidos para evaluar esta SdA: </p>
+<p><a href="https://docs.google.com/document/d/1KzpCBQh14Hv4_IIDtb2QL3SC16FsWX6vQmHqIGEoX2k/edit?usp=sharing">https://docs.google.com/document/d/1KzpCBQh14Hv4_IIDtb2QL3SC16FsWX6vQmHqIGEoX2k/edit?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777316033177-8af7dz9ye","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado queda incluido el enlace al documento que relaciona las distintas tareas con los criterios de evaluación escogidos para evaluar esta SdA: </p>\n<p><a href=\"https://docs.google.com/document/d/1KzpCBQh14Hv4_IIDtb2QL3SC16FsWX6vQmHqIGEoX2k/edit?usp=sharing\">https://docs.google.com/document/d/1KzpCBQh14Hv4_IIDtb2QL3SC16FsWX6vQmHqIGEoX2k/edit?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok5q3ik-beuw7cxt0</odePageId>
+  <odeParentPageId>page-mok5q3ii-1daaaheeo</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ik-beuw7cxt0</odePageId>
+      <odeBlockId>block-1777316077098-i07fjwias</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ik-beuw7cxt0</odePageId>
+          <odeBlockId>block-1777316077098-i07fjwias</odeBlockId>
+          <odeIdeviceId>idevice-1777316077095-teo9sn8pj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se exponen el enlace a uno de los instrumentos de evaluación que se usará durante la SdA para valorar los aprendizajes del alumnado:</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeqs6iZCteUJM_tQbQUgm0Bpp3jCMrsNi88G9xybDLJI1sXMw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSeqs6iZCteUJM_tQbQUgm0Bpp3jCMrsNi88G9xybDLJI1sXMw/viewform</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777316077095-teo9sn8pj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se exponen el enlace a uno de los instrumentos de evaluación que se usará durante la SdA para valorar los aprendizajes del alumnado:</p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeqs6iZCteUJM_tQbQUgm0Bpp3jCMrsNi88G9xybDLJI1sXMw/viewform\">https://docs.google.com/forms/d/e/1FAIpQLSeqs6iZCteUJM_tQbQUgm0Bpp3jCMrsNi88G9xybDLJI1sXMw/viewform</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok5q3ik-lxtnbmnuj</odePageId>
+  <odeParentPageId>page-mok5q3ii-1daaaheeo</odeParentPageId>
+  <pageName>Contenidos para consultar y trabajar</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos para consultar y trabajar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos para consultar y trabajar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Contenidos para consultar y trabajar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ik-lxtnbmnuj</odePageId>
+      <odeBlockId>block-1777316282656-bjz3qrvvl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ik-lxtnbmnuj</odePageId>
+          <odeBlockId>block-1777316282656-bjz3qrvvl</odeBlockId>
+          <odeIdeviceId>idevice-1777316282651-97p0z8s4n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://elena-recio-dona.symbaloo.com/home/mix/13ePQXMXCJ">https://elena-recio-dona.symbaloo.com/home/mix/13ePQXMXCJ</a></p>
+<p><a href="https://padlet.com/erecdon624/lun-arte-de-yayoi-kusama-7ni7ru2y2qo96ux2">https://padlet.com/erecdon624/lun-arte-de-yayoi-kusama-7ni7ru2y2qo96ux2</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777316282651-97p0z8s4n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://elena-recio-dona.symbaloo.com/home/mix/13ePQXMXCJ\">https://elena-recio-dona.symbaloo.com/home/mix/13ePQXMXCJ</a></p>\n<p><a href=\"https://padlet.com/erecdon624/lun-arte-de-yayoi-kusama-7ni7ru2y2qo96ux2\">https://padlet.com/erecdon624/lun-arte-de-yayoi-kusama-7ni7ru2y2qo96ux2</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok5q3ik-fchubt3e5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo final de créditos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo final de créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo final de créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok5q3ik-fchubt3e5</odePageId>
+      <odeBlockId>block-1777472258074-2wsf6630r</odeBlockId>
+      <blockName>Página de créditos y autorías</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok5q3ik-fchubt3e5</odePageId>
+          <odeBlockId>block-1777472258074-2wsf6630r</odeBlockId>
+          <odeIdeviceId>idevice-1777472258071-1352n6c0h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong>: Elena Recio Doña</p>
+<p><strong>Descripción</strong>: este eXelearning es el desarrollo de la Situación de Aprendizaje "Lun-Arte de Yayoi Kusama" del proyecto "Mujeres artistas". </p>
+<p><strong>Licencia de uso</strong>: Creative commons: attribution - share alike 4.0 (BY -SA)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777472258071-1352n6c0h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong>: Elena Recio Doña</p>\n<p><strong>Descripción</strong>: este eXelearning es el desarrollo de la Situación de Aprendizaje \"Lun-Arte de Yayoi Kusama\" del proyecto \"Mujeres artistas\". </p>\n<p><strong>Licencia de uso</strong>: Creative commons: attribution - share alike 4.0 (BY -SA)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
